@@ -1,1 +1,1 @@
-# symfony-webapp-template
+# Initializing your Symfony project with solid foundations
