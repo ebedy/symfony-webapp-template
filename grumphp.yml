@@ -1,0 +1,10 @@
+grumphp:
+    stop_on_failure: false
+    fixer:
+        enabled: true
+        fix_by_default: false
+    process_timeout: 60
+    tasks:
+        make:
+            make_file: ~
+            task: check_commit
