@@ -5,7 +5,7 @@ COMPOSER_INSTALL = $(COMPOSER) install
 COMPOSER_UPDATE = $(COMPOSER) update
 #------------#
 #---SYMFONY--#
-CONSOLE = $(CONSOLE)
+CONSOLE = php bin/console
 #------------#
 #---------------------------------------------#
 ## === 🆘  HELP ==================================================
